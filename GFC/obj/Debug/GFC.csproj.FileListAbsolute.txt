@@ -1,0 +1,6 @@
+E:\程式專區\UMC公司專案\GFC\GFC\GFC\bin\Debug\GFC.exe.config
+E:\程式專區\UMC公司專案\GFC\GFC\GFC\bin\Debug\GFC.exe
+E:\程式專區\UMC公司專案\GFC\GFC\GFC\bin\Debug\GFC.pdb
+E:\程式專區\UMC公司專案\GFC\GFC\GFC\obj\Debug\GFC.csprojAssemblyReference.cache
+E:\程式專區\UMC公司專案\GFC\GFC\GFC\obj\Debug\GFC.exe
+E:\程式專區\UMC公司專案\GFC\GFC\GFC\obj\Debug\GFC.pdb
